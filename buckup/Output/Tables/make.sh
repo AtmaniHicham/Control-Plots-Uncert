@@ -1,8 +1,0 @@
-pdflatex table_Wminusenu_13TeV.tex
-pdflatex table_Wminusenu_5TeV.tex
-pdflatex table_Wminusmunu_13TeV.tex
-pdflatex table_Wminusmunu_5TeV.tex
-pdflatex table_Wplusenu_13TeV.tex
-pdflatex table_Wplusenu_5TeV.tex
-pdflatex table_Wplusmunu_13TeV.tex
-pdflatex table_Wplusmunu_5TeV.tex
