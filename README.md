@@ -21,7 +21,7 @@ This framework is used for data visualization.
 Output examples:
 ```
 
-https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf
+![pT_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
 
 [pT_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
 [Eta_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181204/Eta_5TeV_lepton_Wminusenu.pdf)
