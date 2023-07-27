@@ -21,15 +21,5 @@ This framework is used for data visualization.
 Output examples:
 ```
 
-<img width="355" alt="Screenshot 2020-08-25 at 12 02 21" src="https://user-images.githubusercontent.com/53044514/91161287-dd5f1600-e6ca-11ea-8a8e-8fb64f9df1db.png"> <img width="350" alt="Screenshot 2020-08-25 at 12 05 22" src="https://user-images.githubusercontent.com/53044514/91161628-49417e80-e6cb-11ea-94b2-edb9d4476594.png">
 
-![alt text](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
-
-![pT_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
-
-[pT_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
-[Eta_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181204/Eta_5TeV_lepton_Wminusenu.pdf)
-[Migration_pT_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181200/Migration_pT_5TeV_lepton_Wminusenu.pdf)
-[Migration_Eta_5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181201/Migration_Eta_5TeV_lepton_Wminusenu.pdf)
-[Lepton_vs_Eta__5TeV_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181203/Lepton_vs_Eta__5TeV_Wminusenu.pdf)
-[Migration_2D _5TeV_lepton_Wminusenu.pdf](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181202/Migration_2D._5TeV_lepton_Wminusenu.pdf)
+![Lepton_vs_Eta__5TeV_Wminusenu-1](https://github.com/AtmaniHicham/Control-Plots-Uncert/assets/105196225/0e9e6c3b-3244-43f6-99da-3d6000cc60f7)
