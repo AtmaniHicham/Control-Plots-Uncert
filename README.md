@@ -21,7 +21,7 @@ This framework is used for data visualization.
 Output examples:
 ```
 
-<img width="355" alt="Screenshot 2020-08-25 at 12 02 21" src="https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf"> <img width="350" alt="Screenshot 2020-08-25 at 12 05 22" src="https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf">
+<img width="355" alt="Screenshot 2020-08-25 at 12 02 21" src="https://user-images.githubusercontent.com/53044514/91161287-dd5f1600-e6ca-11ea-8a8e-8fb64f9df1db.png"> <img width="350" alt="Screenshot 2020-08-25 at 12 05 22" src="https://user-images.githubusercontent.com/53044514/91161628-49417e80-e6cb-11ea-94b2-edb9d4476594.png">
 
 ![alt text](https://github.com/AtmaniHicham/Control-Plots-Uncert/files/12181199/pT_5TeV_lepton_Wminusenu.pdf)
 
